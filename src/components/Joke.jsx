@@ -26,7 +26,7 @@ const Joke = () => {
     <>
     <div className="title">
     <a
-    href="https://your-url"
+    href="https://github.com/Neel2107/JokeBox"
     className="github-corner"
     aria-label="View source on GitHub"
   >
