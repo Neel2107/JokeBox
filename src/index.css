@@ -51,6 +51,7 @@ body{
 }
 
 .jokes{
+
   margin: 3% 30%;
   color: whitesmoke;
   /* border: #334155 2px solid; */
@@ -202,3 +203,4 @@ body{
     outline-offset: 0;
   }
 }
+
